@@ -2935,7 +2935,7 @@ end
 
 
 print('---------------------')
-print('Made by 123jl123')
+print('Made by Emplic')
 print('---------------------')
 print('do not leak...')
 print('and i hope you have a nice day :)')
